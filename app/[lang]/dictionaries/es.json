@@ -1,0 +1,63 @@
+{
+  "meta": { "title": "Estante de series", "description": "Aplicación para gestionar series de televisión" },
+  "home": {
+    "title": "Tus series",
+    "savedOne": "serie en el estante",
+    "savedMany": "series en el estante",
+    "add": "Agregar serie",
+    "empty": "Tu estante está vacío. Agrega tu primera serie.",
+    "noResults": "Ninguna serie coincide con tu búsqueda.",
+    "search": "Buscar por título",
+    "searchLabel": "Buscar serie"
+  },
+  "actions": {
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "save": "Guardar serie",
+    "cancel": "Cancelar",
+    "confirm": "Sí, eliminar",
+    "favorite": "★ Favorita",
+    "addFavorite": "☆ Favorita",
+    "back": "Volver al estante",
+    "confirmDelete": "¿Eliminar esta serie? Esta acción no se puede deshacer."
+  },
+  "serie": {
+    "seasons": "temporadas",
+    "seasonOne": "temporada",
+    "addTitle": "Agregar serie",
+    "editTitle": "Editar serie",
+    "rating": "Calificación",
+    "notFound": "No encontramos esta serie. Puede que haya sido eliminada.",
+    "notFoundEdit": "No encontramos esta serie para editarla."
+  },
+  "form": {
+    "title": "Título",
+    "titlePh": "Ej. Breaking Bad",
+    "genre": "Género",
+    "selectGenre": "Selecciona un género",
+    "seasons": "Temporadas",
+    "rating": "Calificación (1-10)",
+    "platform": "Plataforma",
+    "platformPh": "Ej. Netflix",
+    "image": "URL de la portada (opcional)",
+    "imagePh": "https://...",
+    "description": "Descripción",
+    "errTitle": "Escribe el título de la serie",
+    "errGenre": "Selecciona un género",
+    "errSeasons": "Debe tener al menos 1 temporada",
+    "errRating": "La calificación va de 1 a 10",
+    "errPlatform": "Escribe dónde se puede ver",
+    "errImage": "La URL debe empezar por http:// o https://",
+    "errDescription": "Máximo 300 caracteres"
+  },
+  "genres": {
+    "Drama": "Drama",
+    "Comedia": "Comedia",
+    "Terror": "Terror",
+    "Ciencia Ficción": "Ciencia ficción",
+    "Documental": "Documental",
+    "Acción": "Acción",
+    "Fantasía": "Fantasía"
+  },
+  "language": { "label": "Idioma", "es": "Español", "en": "English" }
+}

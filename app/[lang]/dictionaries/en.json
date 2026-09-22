@@ -1,0 +1,63 @@
+{
+  "meta": { "title": "Series shelf", "description": "App to manage TV series" },
+  "home": {
+    "title": "Your series",
+    "savedOne": "series on the shelf",
+    "savedMany": "series on the shelf",
+    "add": "Add series",
+    "empty": "Your shelf is empty. Add your first series.",
+    "noResults": "No series match your search.",
+    "search": "Search by title",
+    "searchLabel": "Search series"
+  },
+  "actions": {
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save series",
+    "cancel": "Cancel",
+    "confirm": "Yes, delete",
+    "favorite": "★ Favorite",
+    "addFavorite": "☆ Favorite",
+    "back": "Back to the shelf",
+    "confirmDelete": "Delete this series? This can't be undone."
+  },
+  "serie": {
+    "seasons": "seasons",
+    "seasonOne": "season",
+    "addTitle": "Add series",
+    "editTitle": "Edit series",
+    "rating": "Rating",
+    "notFound": "We couldn't find this series. It may have been deleted.",
+    "notFoundEdit": "We couldn't find this series to edit."
+  },
+  "form": {
+    "title": "Title",
+    "titlePh": "e.g. Breaking Bad",
+    "genre": "Genre",
+    "selectGenre": "Select a genre",
+    "seasons": "Seasons",
+    "rating": "Rating (1-10)",
+    "platform": "Platform",
+    "platformPh": "e.g. Netflix",
+    "image": "Cover URL (optional)",
+    "imagePh": "https://...",
+    "description": "Description",
+    "errTitle": "Enter the series title",
+    "errGenre": "Select a genre",
+    "errSeasons": "It needs at least 1 season",
+    "errRating": "Rating goes from 1 to 10",
+    "errPlatform": "Enter where it can be watched",
+    "errImage": "The URL must start with http:// or https://",
+    "errDescription": "300 characters max"
+  },
+  "genres": {
+    "Drama": "Drama",
+    "Comedia": "Comedy",
+    "Terror": "Horror",
+    "Ciencia Ficción": "Sci-fi",
+    "Documental": "Documentary",
+    "Acción": "Action",
+    "Fantasía": "Fantasy"
+  },
+  "language": { "label": "Language", "es": "Español", "en": "English" }
+}
